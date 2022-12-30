@@ -1,1 +1,2 @@
-- Hello world
+- [[What i found]]
+- [[What i think]]
