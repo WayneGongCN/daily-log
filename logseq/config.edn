@@ -213,7 +213,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["index" "daily" "Contents"]
+ :favorites ["index" "daily"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -228,7 +228,7 @@
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
  :feature/enable-flashcards? false
- :publishing/all-pages-public? true
+ :publishing/all-pages-public? false
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-whiteboards? false
 
