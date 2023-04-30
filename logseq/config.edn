@@ -230,6 +230,7 @@
  :feature/enable-flashcards? false
  :publishing/all-pages-public? true
  :journal/page-title-format "yyyy-MM-dd"
+ :feature/enable-whiteboards? false
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
